@@ -1,0 +1,33 @@
+body{
+    background: rgba(0, 0, 0, 1);
+
+    width: 1440px;
+    height: 2491px;
+    top: -225px;
+    left: 709px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.banner{
+    width: 1060px;
+    height: 0px;
+    top: 669px;
+    left: 190px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+}
+.banner-contenet{
+    background-blend-mode: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0) 100%) url(../images/banner.png);
+    width: 510px;
+    height: 393px;
+    top: 56px;
+    left: 465px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
